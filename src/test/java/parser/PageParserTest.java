@@ -1,6 +1,5 @@
 package parser;
 
-
 import com.altshuler.JnetWorksTestTask.parser.PageParser;
 import org.junit.jupiter.api.Test;
 
